@@ -76,6 +76,9 @@
         "python -m pip install jupyterlab~=3.1",
         "jlpm"
       ]
-    }
+    },
+    "skip": [
+      "check-links"
+    ]
   }
 }
