@@ -1,6 +1,6 @@
 # jupyter_wren_syntax
 
-[![Github Actions Status]([https://github.com/DerThorsten/jupyter-wren-syntax/workflows/Build/badge.svg)]([https://github.com/DerThorsten/jupyter-wren-syntax/actions/workflows/build.yml)
+[![Github Actions Status]([https://github.com/DerThorsten/jupyter-wren-syntax/workflows/Build/badge.svg)]([https://github.com/DerThorsten/jupyter_wren_syntax/actions/workflows/build.yml)
 
 A JupyterLab extension.
 
