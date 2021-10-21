@@ -8,6 +8,8 @@ include install.json
 include ts*.json
 include yarn.lock
 
+exclude yarn-error.log
+
 graft jupyter_wren_syntax/labextension
 
 # Javascript files
