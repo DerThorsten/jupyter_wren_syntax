@@ -81,8 +81,6 @@ const plugin: JupyterFrontEndPlugin<void> = {
   autoStart: true,
   requires: [ICodeMirror],
   activate: (app: JupyterFrontEnd, codeMirror: ICodeMirror) => {
-    console.log('JupyterLab extension jupyter-wren-syntax is activated!');
-
     registerWrenFileType(app);
     defineWrenCodeMirrorMode(codeMirror.CodeMirror);
   }
